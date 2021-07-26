@@ -6,21 +6,19 @@ date: 2021-07-26
 comments: false
 ---
     
-<center>Hi there<br>
+<center><b>Hi there</b></center><br>
 My name is Alireza Dehghanzadeh<br>
-I'm a MSc student at University of Tehran, Iran</center>
+I'm from Esfahan, Iran<br>
+I'm a MSc student at University of Tehran, Iran<br><br>
+I would like to grow my knowledge and improve my skills, Love coding and working to become a hunter<br>
+I'm a Linux enthusiast and a fan of open-source softwares<br>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## What I am interested in
+* Artificial Inteligence
+* Image Porcessing
+* Network
+* Programming
+* Tranditional Lifestyle
 
 ## Preview
 
