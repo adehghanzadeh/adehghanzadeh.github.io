@@ -26,8 +26,8 @@ I'm a Linux enthusiast and a fan of open-source softwares<br>
 * Tranditional Lifestyle
 
 ## I'm currently
-- [x] Working on my Python Skills
-- [x] Learning Network fundementals
-- [ ] Working on JavaScript to become an expert
-- [ ] Learning Hunting fundementals
+[x]  Working on my Python Skills
+[x]  Learning Network fundementals
+[ ]  Working on JavaScript to become an expert
+[ ]  Learning Hunting fundementals
 
