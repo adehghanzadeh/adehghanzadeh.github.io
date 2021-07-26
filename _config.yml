@@ -1,6 +1,6 @@
 # Site
 title:              Alireza Dehghanzadeh
-bio:                'college student from Iran.'
+bio:                'college student from Iran. Check out About Page'
 description:        "I'm currently studying agricultural Machinery at University of Tehran, Iran."
 reading_time:       true
 words_per_minute:   200
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   Alireza
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -37,7 +37,7 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              dehghanzadeh@tutamail.com
 #twitter:            username
 #facebook:           username
 github-url:         adehghanzadeh
