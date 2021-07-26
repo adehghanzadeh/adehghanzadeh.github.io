@@ -3,7 +3,7 @@ title:              Alireza Dehghanzadeh
 bio:                'Research student @ University of Tehran, Iran'
 description:        "A Student from Iran"
 reading_time:       true
-words_per_minute:   200
+words_per_minute:   150
 logo:               'assets/img/logo-myface.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
