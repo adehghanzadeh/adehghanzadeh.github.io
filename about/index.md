@@ -16,8 +16,9 @@ I'm a Linux enthusiast and a fan of open-source softwares<br>
 ## What I am interested in
 * Artificial Inteligence
 * Image Porcessing
-* Network
+* Networks
 * Programming
+* Hacking (obviously, Ethical :smile:)
 * Tranditional Lifestyle
 
 ## Preview
