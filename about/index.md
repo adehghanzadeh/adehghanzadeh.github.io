@@ -1,12 +1,14 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Me
+tags: [about, me, alireza, dehghanzadeh, alireza dehghanzadeh, adehghanzadeh]
+date: 2021-07-26
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>Hi there
+My name is Alireza Dehghanzadeh
+I'm a MSc student at University of Tehran, Iran</center>
 
 ## Features
 * Minimal, you can focus on your content
