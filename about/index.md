@@ -6,8 +6,8 @@ date: 2021-07-26
 comments: false
 ---
     
-<center>Hi there
-My name is Alireza Dehghanzadeh
+<center>Hi there<hr>
+My name is Alireza Dehghanzadeh<hr>
 I'm a MSc student at University of Tehran, Iran</center>
 
 ## Features
