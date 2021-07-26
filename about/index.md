@@ -18,7 +18,7 @@ I'm a Linux enthusiast and a fan of open-source softwares<br>
 * Image Porcessing
 * Networks
 * Programming
-* Hacking (obviously, Ethical :smile:)
+* Hacking (obviously, Ethical :smile: :+1:)
 * Tranditional Lifestyle
 
 ## Preview
