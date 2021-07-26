@@ -40,7 +40,6 @@ disqus_shortname:   Alireza
 email:              dehghanzadeh@tutamail.com
 #twitter:            username
 #facebook:           username
-github-url:         adehghanzadeh
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:          dehghanzadeh
 #xing:              username
@@ -59,6 +58,7 @@ youtube-channel:   UCoDyDM0qid1naxoLQxvPZvA
 #flickr:            username
 #codepen:           username
 #keybase:           username
+github-url:         adehghanzadeh
 #xmpp:              username@server.com
 #hackernews:        username
 
