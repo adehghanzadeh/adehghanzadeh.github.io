@@ -34,4 +34,4 @@ I'm a Linux enthusiast and a fan of open-source softwares<br>
 # How to contact me
 <div markdown="0"><a href="http://telegram.me/DehghanzadehBot" class="btn btn-info"><i class="fa fa-fw fa-telegram" style="font-size: 2.05em;"></i></a></div>
 
-<a href="http://telegram.me/DehghanzadehBot"><i class="fa fa-fw fa-telegram" style="font-size: 3.1em;"></i></a>
+<a href="http://telegram.me/DehghanzadehBot"><i class="fa fa-fw fa-telegram"; style="font-size: 3.1em; color: black"></i></a>
