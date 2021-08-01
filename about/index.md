@@ -31,3 +31,5 @@ I'm a Linux enthusiast and a fan of open-source softwares<br>
 - [ ]    Working on JavaScript to become an expert
 - [ ]    Learning Hunting fundementals
 
+## How to contact me
+<i class="fa fa-fw fa-telegram"></i>
