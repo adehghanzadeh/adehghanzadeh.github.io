@@ -32,5 +32,5 @@ I'm a Linux enthusiast and a fan of open-source softwares<br>
 - [ ]    Learning Hunting fundementals
 
 ## How to contact me
-<a class="social-btn" href="http://telegram.me/{{ site.telegram }}" target="_blank" rel="noopener noreferrer"><div markdown="0"><a href="#" class="btn btn-info"><i class="fa fa-fw fa-telegram"></i>  **Telegram**</div></a>
+<div markdown="0"><a href="http://telegram.me/iAlirezaD" class="btn btn-info"><i class="fa fa-fw fa-telegram"></i>  **Telegram**</a></div>
       
