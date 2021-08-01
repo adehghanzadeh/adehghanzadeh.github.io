@@ -32,6 +32,5 @@ I'm a Linux enthusiast and a fan of open-source softwares<br>
 - [ ]    Learning Hunting fundementals
 
 # How to contact me
-<div markdown="0"><a href="http://telegram.me/DehghanzadehBot" class="btn btn-info"><i class="fa fa-fw fa-telegram" style="font-size: 2.05em;"></i></a></div>
 
-<a href="http://telegram.me/DehghanzadehBot"><i class="fa fa-fw fa-telegram" style="font-size: 3.1em; color: #308CBC" ></i></a>
+<div markdown="0"><a href="http://telegram.me/DehghanzadehBot"><i class="fa fa-fw fa-telegram" style="font-size: 3.1em; color: #308CBC" ></i></a></div>
