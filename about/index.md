@@ -6,7 +6,7 @@ date: 2021-07-26
 comments: false
 ---
     
-<center><b>Hi there</b></center><br>
+# Hello World
 My name is Alireza Dehghanzadeh<br>
 I'm from Esfahan, Iran<br>
 I'm a MSc student at University of Tehran, Iran<br><br>
@@ -31,5 +31,5 @@ I'm a Linux enthusiast and a fan of open-source softwares<br>
 - [ ]    Working on JavaScript to become an expert
 - [ ]    Learning Hunting fundementals
 
-## How to contact me
-<div markdown="0"><a href="http://telegram.me/DehghanzadehBot" class="btn btn-info"><i class="fa fa-fw fa-telegram" style="font-size: 2em;"></i></a></div>
+# How to contact me
+<div markdown="0"><a href="http://telegram.me/DehghanzadehBot" class="btn btn-info"><i class="fa fa-fw fa-telegram" style="font-size: 1.5em;"></i></a></div>
