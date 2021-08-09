@@ -21,7 +21,7 @@ Here is my new finished photoshop project
 ### Cover of Seeder Monitoring System Manual paper
 
 
-|![Front Cover](https://user-images.githubusercontent.com/42281587/128722231-39b42b26-e3d7-4db1-a155-682cc1e16245.png) | ![Back Cover](https://user-images.githubusercontent.com/42281587/128722897-68eaca11-37ea-4d34-bc34-35c8f09f8c88.png)
+|![Front Cover](https://user-images.githubusercontent.com/42281587/128726346-1c2026e3-6ef0-46f7-a943-196d6d2e4c51.png) | ![Back Cover](https://user-images.githubusercontent.com/42281587/128726500-0b0bcae1-9996-4e86-8b41-cee8f2c9666a.png)
 
 ### The Story behind it
 
