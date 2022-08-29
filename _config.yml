@@ -8,7 +8,7 @@ logo:               'assets/img/logo-myface.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://adehghanzadeh.github.io
+url:                https://infodior.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -43,7 +43,7 @@ email:              dehghanzadeh@tutamail.com
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:          dehghanzadeh
 #xing:              username
-#instagram:          alireza.dghnz
+instagram:          infodior
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
@@ -62,7 +62,7 @@ youtube-channel:   UCoDyDM0qid1naxoLQxvPZvA
 #xmpp:              username@server.com
 #hackernews:        username
 #telegram:           iAlirezaD
-resume:             https://adehghanzadeh.github.io/resume
+resume:             https://alireza.pages.dev
 
 # Gems
 gems:
