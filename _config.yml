@@ -37,13 +37,13 @@ sass:
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              dehghanzadeh@tutamail.com
+#email:              dehghanzadeh@tutamail.com
 #twitter:            username
 #facebook:           username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:          dehghanzadeh
 #xing:              username
-instagram:          infodior
+#instagram:          infodior
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
@@ -61,8 +61,8 @@ instagram:          infodior
 #github-url:         adehghanzadeh
 #xmpp:              username@server.com
 #hackernews:        username
-#telegram:           iAlirezaD
-resume:             https://alireza.pages.dev
+telegram:           iAlirezaD
+#resume:             https://alireza.pages.dev
 
 # Gems
 gems:
