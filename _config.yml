@@ -8,7 +8,7 @@ logo:               'assets/img/logo-myface.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://alerezaaa.github.io
+url:                https://card.alerezaa.ir
 
 # Jekyll
 permalink:          /:title/
@@ -58,7 +58,7 @@ linkedin:          dehghanzadeh
 #flickr:            username
 #codepen:           username
 #keybase:           username
-#github-url:         adehghanzadeh
+github-url:         alerezaaa
 #xmpp:              username@server.com
 #hackernews:        username
 telegram:           iAlirezaD
